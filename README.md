@@ -20,15 +20,11 @@
 ## Projects
 
 <p align="center">
-  <a href="https://github.com/WooLyung/RG2R"><img width="36%" src="./assets/project-01.svg" alt="RG2R"></a>
-  &nbsp;
-  <a href="https://github.com/WooLyung/Lumencuit"><img width="36%" src="./assets/project-02.svg" alt="Lumencuit"></a>
+  <a href="https://github.com/WooLyung/RG2R"><img width="47%" height="58" src="./assets/project-01-v2.svg" alt="RG2R"></a><a href="https://github.com/WooLyung/Lumencuit"><img width="47%" height="58" src="./assets/project-02-v2.svg" alt="Lumencuit"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/WooLyung/Stalemate"><img width="36%" src="./assets/project-03.svg" alt="Stalemate"></a>
-  &nbsp;
-  <a href="https://github.com/WooLyung/DoTheRitualsYourselves"><img width="36%" src="./assets/project-04.svg" alt="DoTheRitualsYourselves"></a>
+  <a href="https://github.com/WooLyung/Stalemate"><img width="47%" height="58" src="./assets/project-03-v2.svg" alt="Stalemate"></a><a href="https://github.com/WooLyung/DoTheRitualsYourselves"><img width="47%" height="58" src="./assets/project-04-v2.svg" alt="DoTheRitualsYourselves"></a>
 </p>
 
 <br>
@@ -36,15 +32,15 @@
 ## Research
 
 <p align="center">
-  <a href="https://github.com/nsce9806q/FlowX"><img width="94%" src="./assets/research-01.svg" alt="FlowX: 손쉬운 데이터 전처리를 위한 흐름 기반 데이터 전처리 프로그램"></a>
+  <a href="https://github.com/nsce9806q/FlowX"><img width="94%" src="./assets/research-01-v2.svg" alt="FlowX: 손쉬운 데이터 전처리를 위한 흐름 기반 데이터 전처리 프로그램"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/msisdev/go-transistor-archive"><img width="94%" src="./assets/research-02.svg" alt="WaveTR: 분산 시스템을 위한 메시지 스트림 프레임워크"></a>
+  <a href="https://github.com/msisdev/go-transistor-archive"><img width="94%" src="./assets/research-02-v2.svg" alt="WaveTR: 분산 시스템을 위한 메시지 스트림 프레임워크"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/WooLyung/defect-detection"><img width="94%" src="./assets/research-03.svg" alt="Global shape defect detection for 3D printed medical plates using medial skeletons and multiresolution hierarchies"></a>
+  <a href="https://github.com/WooLyung/defect-detection"><img width="94%" src="./assets/research-03-v2.svg" alt="Global shape defect detection for 3D printed medical plates using medial skeletons and multiresolution hierarchies"></a>
 </p>
 
 </div>
